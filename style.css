@@ -2,6 +2,8 @@
 
 @import url("/styles/homepage.css");
 
+@import url("/styles/wishlist/wishlist.css");
+
 *{
     margin: 0px;
     box-sizing: border-box;
@@ -31,3 +33,21 @@
     --dark: #343a40;
     --secondary: #EDEDED;
 }
+
+::-webkit-scrollbar{
+    width: 10px;
+   }
+   
+   ::-webkit-scrollbar-track{
+    border-radius: 5px;
+   }
+   
+   ::-webkit-scrollbar-thumb{
+    background-color: var(--primary);
+    border-radius: 5px;
+   }
+
+a:hover{
+    color: var(--primary);
+}
+   
