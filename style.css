@@ -4,6 +4,10 @@
 
 @import url("/styles/wishlist/wishlist.css");
 
+@import url("/styles/authentication/login.css");
+
+@import url("/styles/cart/cart.css");
+
 *{
     margin: 0px;
     box-sizing: border-box;
