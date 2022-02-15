@@ -6,7 +6,9 @@
 
 @import url("/styles/authentication/login.css");
 
-@import url("/styles/cart/cart.css");
+@import url("/styles/cart/cart.css"); 
+
+@import url("/styles/product/product.css");
 
 *{
     margin: 0px;

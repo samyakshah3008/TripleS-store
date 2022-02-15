@@ -1,0 +1,98 @@
+.main-container{
+    display: flex;
+    gap: 1rem;
+    padding: 1.4rem;
+}
+
+.side-bar-container{
+    /* background-color: red; */
+   width: 300px;
+    height: fit-content;
+    padding: 1.4rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    /* border: 2px solid black;  */
+
+}
+
+.title{
+    display: flex;
+    justify-content: space-between;
+}
+
+.clear-link{
+    text-align: center;
+    margin-top: 0.5rem;
+
+}
+
+.heading-title{
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.filters{
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+
+.filter-wrapper{
+    /* border: 2px solid black;  */
+}
+
+.filter-title{
+    font-weight: bold;
+}
+
+.filter-value{
+    /* border: 2px solid black; */
+    display: flex;
+    flex-direction: column;
+    gap: 0.6rem;
+
+}
+
+.filter-price{
+    display: flex;
+    justify-content: space-between;
+}
+
+.range-input{
+    width: 100%;
+    accent-color: var(--primary);
+}
+
+.checkbox-input{
+    accent-color: var(--primary);
+
+}
+
+.radio-input{
+    accent-color: var(--primary);
+
+}
+
+.product-display-container{
+    flex-grow: 1; 
+
+}
+
+.product-display-container{
+    display: flex;
+    gap: 2rem;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    /* border: 2px solid black;  */
+    width: 60rem;
+
+}
+
+.product-display-card{
+    height: fit-content;
+}
+
+
+
