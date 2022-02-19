@@ -9,7 +9,8 @@
 @import url("/styles/address/address.css");
 @import url("/styles/profile-settings/profile-setting.css");
 @import url("/styles/individual-product-detail/individual-product-detail.css");
-@import url("/styles/forgotpassword/forgotpassword.css");
+@import url("/styles/forgotpassword/forgotpassword.css"); 
+@import url("/styles/ordersummary/ordersummary.css");
 
 *{
     margin: 0px;
