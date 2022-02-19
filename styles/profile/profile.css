@@ -1,0 +1,38 @@
+.account-container{
+    display: flex;
+    gap: 7rem;
+    width: 60%;
+    margin: auto;
+    padding: 2rem;
+    box-shadow: 5px 5px 18px 5px var(--secondary);
+
+}
+
+.account-main-content{
+    flex-grow: 1;
+    gap: 2rem;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.account-sidebar{
+    gap: 2rem;
+    display: flex;
+    flex-direction: column;
+    height: fit-content;
+}
+
+.main-account-header{
+    font-weight: bold;
+}
+
+.admin-info-container{
+    display: flex;
+    gap: 4rem;
+}
+
+.account-link-active{
+    color: var(--primary);
+    font-weight: bold;
+}
