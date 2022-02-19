@@ -1,0 +1,36 @@
+.address-container{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.address-main{
+    display: flex;
+    flex-direction: column;
+    gap: 5rem;
+}
+
+.edit-btn{
+    background-color: var(--primary);
+    color: var(--white);
+    border: 2px solid var(--primary);
+    padding: 10px 10px;
+  text-align: center;
+  cursor: pointer;
+  width: 30%;
+}
+
+.edit-secondary-btn{
+    color: var(--primary);
+    background-color: var(--white);
+}
+
+.edit-secondary-btn:hover{
+    color: var(--secondary);
+    background-color: var(--primary);
+}
+
+.address-btns-container{
+    display: flex;
+    gap: 2rem;
+}
