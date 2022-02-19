@@ -5,15 +5,12 @@
 }
 
 .side-bar-container{
-    /* background-color: red; */
    width: 300px;
     height: fit-content;
     padding: 1.4rem;
     display: flex;
     flex-direction: column;
     gap: 1rem;
-    /* border: 2px solid black;  */
-
 }
 
 .title{
@@ -38,16 +35,11 @@
     gap: 1.5rem;
 }
 
-.filter-wrapper{
-    /* border: 2px solid black;  */
-}
-
 .filter-title{
     font-weight: bold;
 }
 
 .filter-value{
-    /* border: 2px solid black; */
     display: flex;
     flex-direction: column;
     gap: 0.6rem;
@@ -85,13 +77,16 @@
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    /* border: 2px solid black;  */
     width: 60rem;
 
 }
 
 .product-display-card{
     height: fit-content;
+}
+
+.full-card-width{
+    width: 320px;
 }
 
 
