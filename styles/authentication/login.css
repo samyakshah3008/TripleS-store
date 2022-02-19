@@ -55,3 +55,13 @@
     cursor: pointer;
     color: var(--primary);
 }
+
+.secondary-test-credential-btn{
+    background-color: var(--white);
+    color: var(--primary);
+
+}
+
+.secondary-test-credential-btn:hover{
+    color: var(--secondary);
+}
