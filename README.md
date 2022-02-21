@@ -4,6 +4,17 @@
 
 This is made with Pure Html and CSS
 
+</br> 
+
+## Live Project Link  
+</br> 
+
+
+[TripleS Store](https://triples-store.netlify.app/)
+
+</br> 
+
+
 ## Salient Features
 
 - Home Page
@@ -17,14 +28,22 @@ This is made with Pure Html and CSS
 - Authentication
 1. Sign-up
 2. Login
-3. Logout
+3. Logout 
+
+</br>
+</br>
+
 
 - Search
 - Address Management
 - Checkout
 - Single Product Page
 - Forget Password
-- User Profile Page
+- User Profile Page 
+
+</br>
+</br>
+
 
 - Order Summary
 - Share your Cart
@@ -33,4 +52,19 @@ This is made with Pure Html and CSS
 - Remember me while login
 - Pagination on Product Listing Page 
 
-[!demo](/video/screen-capture (5).gif)
+</br>
+</br>
+
+
+## Project walkthrough
+
+</br>
+</br>
+
+
+![triplesstore](/video/triplesstore.gif) 
+
+
+
+
+
